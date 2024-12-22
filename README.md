@@ -3,6 +3,15 @@
 ## Project Overview
 This project provides an in-depth analysis of FIFA World Cup data using Python. It covers key aspects of the matches history, performance trends, and standout insights. Whether you're a football enthusiast or a data analytics fan, this project highlights the intersection of sports and data science.
 
+## Dataset Overview 
+[https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup](https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup)
+
+The dataset contains information about all matches and results that took place in Football/Soccer FIFA World Cups.
+
+fifa_ranking.csv - teams ranking before Qatar 2022 World Cup.                               
+matches.csv - table contains all match results from 1930 to 2022.                           
+world_cup.csv - table includes basic information about each World Cu
+
 ## Features
 - Data Cleaning and Preprocessing: Handling raw datasets for analysis-ready insights.
 - Exploratory Data Analysis (EDA): Visualizations and statistical summaries.
